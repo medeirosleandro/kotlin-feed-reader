@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTemp</string>
+    <string name="et_label_temp">Digite a Temperatura</string>
+    <string name="rd_label_celcius">Celcius</string>
+    <string name="rb_label_fahrenheit">Fahrenheit</string>
+    <string name="btn_label_converter">Converter Temperatura</string>
+</resources>
